@@ -45,7 +45,7 @@ namespace HomePractice2
     {
         // 4. 1~50까지의 숫자들의 평균을 구하라
 
-        static void Main(string[] args)
+        static void Main10(string[] args)
         {
             int Sum3 = 0;
             for (int i = 1; i <= 50; i++)
